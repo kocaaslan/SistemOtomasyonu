@@ -1,0 +1,40 @@
+public class EvOtomasyonu {
+
+    // Işıkları kontrol etmek için bir metot
+    public void isiklariKontrolEt(boolean acikMi) {
+        if (acikMi) {
+            // Işıkları aç
+            System.out.println("Işıklar açıldı");
+            // Işıkları açık olduğunu kaydetme, veritabanına kaydetme vb. işlemler burada yapılabilir
+        } else {
+            // Işıkları kapat
+            System.out.println("Işıklar kapatıldı");
+            // Işıkları kapalı olduğunu kaydetme, veritabanına kaydetme vb. işlemler burada yapılabilir
+        }
+    }
+
+    // Sıcaklığı kontrol etmek için bir metot
+    public void sicakligiKontrolEt(double sicaklik) {
+        // Sıcaklık değerini kontrol et
+        if (sicaklik > 25) {
+            System.out.println("Oda sıcak, klima açılacak");
+            // Klimayı açma işlemi burada yapılabilir
+        } else if (sicaklik < 18) {
+            System.out.println("Oda soğuk, ısıtıcı çalışacak");
+            // Isıtıcıyı açma işlemi burada yapılabilir
+        } else {
+            System.out.println("Oda sıcaklığı normal");
+        }
+    }
+
+    // Diğer otomasyon işlevlerini ekleyebilirsiniz
+    // Güvenlik, perde kontrolü, cihazların zamanlaması gibi
+
+    public static void main(String[] args) {
+        EvOtomasyonu ev = new EvOtomasyonu();
+        
+        // Örnek kullanım
+        ev.isiklariKontrolEt(true); // Işıkları aç
+        ev.sicakligiKontrolEt(23.5); // Sıcaklığı kontrol et
+    }
+}
