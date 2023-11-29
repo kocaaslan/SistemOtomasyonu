@@ -1,0 +1,2 @@
+# SistemOtomasyonu
+Bitirme Proje 
