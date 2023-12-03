@@ -4,13 +4,9 @@
     "title": "Sicaklik Sensoru",
     "manifactureDate": "2020-10-21",
     "trailerLink": "https://www.youtube.com/watch?v=Cuml0CMjcoQ",
-    "genres": [
-      "Sensor"
-    ],
+    "genres":"Sensor",
     "foto": "https://www.direnc.net/ts01-temassiz-ir-sicaklik-sensoru-4-20ma-nem-ve-sicaklik-sensorleri-dfrobot-46092-13-B.jpg",
-    "backdrops": [
-      "https://www.otomasyonavm.com/image/cache/catalog/sensorler/isi_sensor/ptc_v1-1500x840.jpg"
-    ],
+    "backdrops":"https://www.otomasyonavm.com/image/cache/catalog/sensorler/isi_sensor/ptc_v1-1500x840.jpg",
     "reviewIds": []
   },
   {
@@ -18,13 +14,9 @@
     "title": "Nem Sensoru",
     "releaseDate": "2020-10-22",
     "trailerLink": "https://www.youtube.com/watch?v=v4pUxn0gWTo",
-    "genres": [
-      "Sensor"
-    ],
+    "genres":"Sensor",
     "foto": "https://image.robotistan.com/dht22-sicaklik-nem-sensoru-modulu-38098-97-K.webp",
-    "backdrops": [
-      "https://www.rcotomasyon.com.tr/wp-content/uploads/2020/12/rc_otomasyon_sistem-ve-tesis_otomasyonu.jpg"
-    ],
+    "backdrops":"https://www.rcotomasyon.com.tr/wp-content/uploads/2020/12/rc_otomasyon_sistem-ve-tesis_otomasyonu.jpg",
     "reviewIds": []
   },
   {
@@ -32,13 +24,9 @@
     "title": "Basinc Sensoru",
     "releaseDate": "2020-10-23",
     "trailerLink": "https://www.youtube.com/watch?v=QoiYqCNCKXM",
-    "genres": [
-      "Sensor"
-    ],
+    "genres":"Sensor",
     "foto": "https://static.ticimax.cloud/cdn-cgi/image/width=600,quality=85,format=auto/35213/uploads/urunresimleri/buyuk/basinc-sensoru-0-400bar-4-20ma-547574fd.jpg",
-    "backdrops": [
-      "https://www.dijinet.com.tr/ajan360-content/uploads/2023/02/Siemens-Otomasyon-Urunleri.webp",
- 
+    "backdrops":"https://www.dijinet.com.tr/ajan360-content/uploads/2023/02/Siemens-Otomasyon-Urunleri.webp",
     "reviewIds": []
   },
   {
@@ -46,14 +34,9 @@
     "title": "Anahtar-Switch",
     "releaseDate": "2020-10-24",
     "trailerLink": "https://www.youtube.com/watch?v=jR_glXxUebU",
-    "genres": [
-      "anahtar-switch"
-    ],
+    "genres":"anahtar-switch",
     "foto": "https://ideacdn.net/idea/kk/43/myassets/products/706/mn3pum7.jpg?revision=1697143329",
-    "backdrops": [
-      "https://www.devecienerji.com.tr/wp-content/uploads/2022/04/Bina-Otomasyon-1.jpg"
-  
-    ],
+    "backdrops":"https://www.devecienerji.com.tr/wp-content/uploads/2022/04/Bina-Otomasyon-1.jpg",
     "reviewIds": []
   },
   {
@@ -61,14 +44,9 @@
     "title": "Motorlu Vana",
     "releaseDate": "2020-10-25",
     "trailerLink": "https://www.youtube.com/watch?v=PcmMJGY8Xsw",
-    "genres": [
-      "Vana"
-    ],
+    "genres":"Vana",
     "foto": "https://www.hvacdunyasi.com.tr/img/products/danfoss_082g5403_20.04.2023_147a086.jpg",
-    "backdrops": [
-      "https://www.acerelektromekanik.com/uploads/hizmet/0d3e1iStock_000020483506_Medium_1.jpg"
-   
-    ],
+    "backdrops":"https://www.acerelektromekanik.com/uploads/hizmet/0d3e1iStock_000020483506_Medium_1.jpg",
     "reviewIds": []
   },
   {
@@ -76,13 +54,9 @@
     "title": "Selenoid Vana",
     "releaseDate": "2020-10-26",
     "trailerLink": "https://www.youtube.com/watch?v=lSTzN3xAIaw",
-    "genres": [
-      "Vana"
-    ],
+    "genres":"Vana",
     "foto": "https://static.ticimax.cloud/36657/uploads/urunresimleri/buyuk/tork-genel-maksatli-1-220v-ac-selenoid-43b9-b.png",
-    "backdrops": [
-      "https://platincdn.com/2439/dosyalar/images/akilli-ev-sistemi.png"
-    ],
+    "backdrops":"https://platincdn.com/2439/dosyalar/images/akilli-ev-sistemi.png",
     "reviewIds": []
   },
   {
@@ -90,13 +64,9 @@
     "title": "SCADA Izleme Modulu",
     "releaseDate": "2020-10-27",
     "trailerLink": "https://www.youtube.com/watch?v=dypqMrFo620",
-    "genres": [
-      "SCADA",
-    ],
+    "genres":"SCADA",
     "foto": "https://www.idasotomasyon.com/wp-content/uploads/2020/04/scada-sistem.jpg",
-    "backdrops": [
-      "https://endustriyelethernet.com/wp-content/uploads/2022/01/scada-1024x683.jpeg"
-    ],
+    "backdrops":"https://endustriyelethernet.com/wp-content/uploads/2022/01/scada-1024x683.jpeg",
     "reviewIds": []
   },
   {
@@ -104,13 +74,9 @@
     "title": "DDC Panel",
     "releaseDate": "2020-10-28",
     "trailerLink": "https://www.youtube.com/watch?v=lFfHbMDZgx8",
-    "genres": [
-      "Panel"
-    ],
+    "genres":"Panel",
     "foto": "http://www.hedefpano.com/media/wxkd5c5o/img_4151.jpeg",
-    "backdrops": [
-      "https://www.analyticsinsight.net/wp-content/uploads/2022/04/Automation-Can-Help-Your-Company.jpg"
-    ],
+    "backdrops":"https://www.analyticsinsight.net/wp-content/uploads/2022/04/Automation-Can-Help-Your-Company.jpg",
     "reviewIds": []
   },
   {
@@ -118,13 +84,9 @@
     "title": "Haberlesme Cihaz",
     "releaseDate": "2020-10-29",
     "trailerLink": "https://www.youtube.com/watch?v=8MZ5eqBqLp0",
-    "genres": [
-      "Haberlesme"
-    ],
+    "genres":"Haberlesme",
     "foto": "https://www.okosis.com/images/entries/full-size/RD.jpg",
-    "backdrops": [
-      "https://cormind.com.tr/wp-content/uploads/2022/12/endustriyel-otomasyon.jpg"
-    ],
+    "backdrops":"https://cormind.com.tr/wp-content/uploads/2022/12/endustriyel-otomasyon.jpg",
     "reviewIds": []
   },
   {
@@ -132,13 +94,9 @@
     "title": "I/O Modulu",
     "releaseDate": "2020-10-30",
     "trailerLink": "https://www.youtube.com/watch?v=-STQyEU0h_Y",
-    "genres": [
-      "I/O Modul "
-    ],
+    "genres":"I/O Modul ",
     "foto": "https://www.eaton.com/content/dam/eaton/products/industrialcontrols-drives-automation-sensors/en-globalprime/i-o-system/xn300-i-o-system/eaton-modular-io-system-xn300-station-1000x1000.jpg",
-    "backdrops": [
-      "https://www.e-spincorp.com/wp-content/uploads/2020/08/robotics-automation-1024x72dpi.jpg"
-    ],
+    "backdrops":"https://www.e-spincorp.com/wp-content/uploads/2020/08/robotics-automation-1024x72dpi.jpg",
     "reviewIds": []
   }
 ]
